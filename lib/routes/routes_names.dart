@@ -1,8 +1,6 @@
 abstract class RoutesNames {
   static const String login = '/login';
   static const String home = '/home';
-  static const String profile = '/profile';
-  static const String settings = '/settings';
-  static const String about = '/about';
-  static const String unknown = '/unknown';
+  static const String interests = '/interests';
+  static const String register = '/register';
 }
